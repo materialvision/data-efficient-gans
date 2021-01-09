@@ -15,7 +15,7 @@ from dnnlib import EasyDict
 
 from metrics import metric_base
 from metrics.metric_defaults import metric_defaults
-from training import dataset_tool
+from training import dataset_tool_run
 from training import misc
 
 # ----------------------------------------------------------------------------
